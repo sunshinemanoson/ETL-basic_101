@@ -1,0 +1,454 @@
+
+12-Jan-2024-14:23:19 : Extacted data Job Prgressed
+12-Jan-2024-14:23:19 : ETL Job Ended
+12-Jan-2024-14:23:54 : Extacted data Job Prgressed
+12-Jan-2024-14:23:54 : ETL Job Ended
+12-Jan-2024-14:24:02 : Extacted data Job Prgressed
+12-Jan-2024-14:24:02 : ETL Job Ended
+12-Jan-2024-14:24:12 : Extacted data Job Prgressed
+12-Jan-2024-14:24:12 : ETL Job Ended
+12-Jan-2024-14:24:32 : Extacted data Job Prgressed
+12-Jan-2024-14:24:32 : ETL Job Ended
+12-Jan-2024-14:24:39 : Extacted data Job Prgressed
+12-Jan-2024-14:24:39 : ETL Job Ended
+12-Jan-2024-14:25:02 : Extacted data Job Prgressed
+12-Jan-2024-14:25:02 : ETL Job Ended
+12-Jan-2024-14:25:16 : Extacted data Job Prgressed
+12-Jan-2024-14:25:16 : ETL Job Ended
+12-Jan-2024-14:25:22 : Extacted data Job Prgressed
+12-Jan-2024-14:25:22 : ETL Job Ended
+12-Jan-2024-14:25:30 : Extacted data Job Prgressed
+12-Jan-2024-14:25:30 : ETL Job Ended
+12-Jan-2024-14:28:53 : Extacted data Job Prgressed
+12-Jan-2024-14:28:53 : ETL Job Ended
+12-Jan-2024-14:29:15 : Extacted data Job Prgressed
+12-Jan-2024-14:29:15 : ETL Job Ended
+12-Jan-2024-14:33:35 : Extacted data Job Prgressed
+12-Jan-2024-14:33:35 : ETL Job Ended
+12-Jan-2024-14:34:29 : Extacted data Job Prgressed
+12-Jan-2024-14:34:29 : ETL Job Ended
+12-Jan-2024-14:35:53 : Extacted data Job Prgressed
+12-Jan-2024-14:35:53 : ETL Job Ended
+12-Jan-2024-14:36:01 : Extacted data Job Prgressed
+12-Jan-2024-14:36:01 : ETL Job Ended
+12-Jan-2024-14:36:26 : Extacted data Job Prgressed
+12-Jan-2024-14:36:26 : ETL Job Ended
+12-Jan-2024-14:36:36 : Extacted data Job Prgressed
+12-Jan-2024-14:36:36 : ETL Job Ended
+12-Jan-2024-14:37:11 : Extacted data Job Prgressed
+12-Jan-2024-14:37:11 : ETL Job Ended
+12-Jan-2024-14:37:51 : Extacted data Job Prgressed
+12-Jan-2024-14:37:51 : ETL Job Ended
+12-Jan-2024-14:40:08 : Extacted data Job Prgressed
+12-Jan-2024-14:40:08 : ETL Job Ended
+12-Jan-2024-14:40:27 : Extacted data Job Prgressed
+12-Jan-2024-14:40:27 : ETL Job Ended
+12-Jan-2024-14:41:04 : Extacted data Job Prgressed
+12-Jan-2024-14:41:04 : ETL Job Ended
+12-Jan-2024-14:41:49 : Extacted data Job Prgressed
+12-Jan-2024-14:41:49 : ETL Job Ended
+13-Jan-2024-00:26:21 : Extacted data Job Prgressed
+13-Jan-2024-00:26:21 : ETL Job Ended
+13-Jan-2024-00:26:31 : Extacted data Job Prgressed
+13-Jan-2024-00:26:31 : ETL Job Ended
+13-Jan-2024-00:26:45 : Extacted data Job Prgressed
+13-Jan-2024-00:26:45 : ETL Job Ended
+13-Jan-2024-00:27:09 : Extacted data Job Prgressed
+13-Jan-2024-00:27:09 : ETL Job Ended
+13-Jan-2024-00:28:59 : Extacted data Job Prgressed
+13-Jan-2024-00:28:59 : ETL Job Ended
+13-Jan-2024-00:29:15 : Extacted data Job Prgressed
+13-Jan-2024-00:29:15 : ETL Job Ended
+13-Jan-2024-00:30:06 : Extacted data Job Prgressed
+13-Jan-2024-00:30:06 : ETL Job Ended
+13-Jan-2024-00:41:51 : Extacted data Job Prgressed
+13-Jan-2024-00:41:51 : ETL Job Ended
+13-Jan-2024-00:59:34 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-00:59:34 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:07:21 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:07:22 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:07:54 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:07:54 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:08:08 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:08:08 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:08:46 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:08:47 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:09:17 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:09:18 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:09:59 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:09:59 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:17:41 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:17:42 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:17:58 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:17:59 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:19:02 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:19:03 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:19:38 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:19:39 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:28:11 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:28:11 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:34:19 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:34:19 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:34:40 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:34:40 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:36:00 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:36:00 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:36:29 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:36:30 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:38:02 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:38:02 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:38:18 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:38:19 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:39:37 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:39:37 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:40:50 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:40:50 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:41:13 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:41:13 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:41:45 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:41:46 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:41:46 : ETL Job Ended
+13-Jan-2024-01:42:35 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:42:35 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:42:50 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:42:50 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:42:50 : ETL Job Ended
+13-Jan-2024-01:43:05 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:43:15 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:43:16 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:43:16 : ETL Job Ended
+13-Jan-2024-01:43:26 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:43:27 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:43:27 : ETL Job Ended
+13-Jan-2024-01:43:44 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:43:44 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:43:44 : ETL Job Ended
+13-Jan-2024-01:44:25 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:44:25 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:44:25 : ETL Job Ended
+13-Jan-2024-01:45:05 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:45:05 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:45:05 : ETL Job Ended
+13-Jan-2024-01:46:42 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:46:43 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:46:43 : ETL Job Ended
+13-Jan-2024-01:47:49 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:47:50 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:48:05 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:48:06 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:48:19 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:48:19 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:48:19 : ETL Job Ended
+13-Jan-2024-01:48:38 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:48:39 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:48:39 : ETL Job Ended
+13-Jan-2024-01:49:11 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:49:12 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:49:12 : ETL Job Ended
+13-Jan-2024-01:50:03 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:50:03 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:50:18 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:50:18 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:50:18 : ETL Job Ended
+13-Jan-2024-01:50:40 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:50:40 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:51:39 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:51:39 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:54:00 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:54:00 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:54:00 : ETL Job Ended
+13-Jan-2024-01:55:20 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:55:39 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:55:40 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:55:40 : ETL Job Ended
+13-Jan-2024-01:55:56 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:55:56 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:55:56 : ETL Job Ended
+13-Jan-2024-01:56:48 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:56:48 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:56:48 : ETL Job Ended
+13-Jan-2024-01:57:02 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:57:03 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:57:03 : ETL Job Ended
+13-Jan-2024-01:58:31 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:58:32 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:58:32 : ETL Job Ended
+13-Jan-2024-01:58:43 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-01:58:43 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-01:58:43 : ETL Job Ended
+13-Jan-2024-12:25:37 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:25:37 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:25:37 : ETL Job Ended
+13-Jan-2024-12:26:02 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:26:03 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:26:03 : ETL Job Ended
+13-Jan-2024-12:26:22 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:26:23 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:26:23 : ETL Job Ended
+13-Jan-2024-12:28:38 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:28:38 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:28:51 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:28:52 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:31:03 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:31:04 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:33:12 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:33:12 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:35:26 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:35:27 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:36:16 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:36:16 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:36:51 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:36:51 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:37:39 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:37:39 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:37:55 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:37:55 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:37:55 : ETL Job Ended
+13-Jan-2024-12:40:32 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:40:32 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:40:32 : ETL Job Ended
+13-Jan-2024-12:40:45 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:40:46 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:40:46 : ETL Job Ended
+13-Jan-2024-12:41:02 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:41:02 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:41:02 : ETL Job Ended
+13-Jan-2024-12:42:16 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:42:16 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:42:16 : ETL Job Ended
+13-Jan-2024-12:44:29 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:44:29 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:44:29 : ETL Job Ended
+13-Jan-2024-12:44:33 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:44:33 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:44:33 : ETL Job Ended
+13-Jan-2024-12:45:14 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-12:45:14 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-12:45:14 : ETL Job Ended
+13-Jan-2024-13:00:35 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-13:00:35 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-13:00:35 : Data saved to CSV_Output file
+13-Jan-2024-13:00:35 : Connection initiated
+13-Jan-2024-13:02:19 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-13:02:19 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-13:02:20 : Data saved to CSV_Output file
+13-Jan-2024-13:02:20 : Connection initiated
+13-Jan-2024-13:02:20 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-13:07:15 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-13:07:16 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-13:07:16 : Data saved to CSV_Output file
+13-Jan-2024-13:07:16 : Connection initiated
+13-Jan-2024-13:07:16 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-13:07:16 : Process Complete
+13-Jan-2024-13:07:16 : Server Connection closed
+13-Jan-2024-13:07:16 : Process Completed.
+13-Jan-2024-13:08:03 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-13:08:03 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-13:08:03 : Data saved to CSV_Output file
+13-Jan-2024-13:08:03 : Connection initiated
+13-Jan-2024-13:08:03 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-13:08:03 : Process Complete
+13-Jan-2024-13:08:03 : Server Connection closed
+13-Jan-2024-13:08:03 : Process Completed.
+13-Jan-2024-13:11:22 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-13:11:22 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-13:11:22 : Data saved to CSV_Output file
+13-Jan-2024-13:11:22 : Connection initiated
+13-Jan-2024-13:11:22 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-19:25:51 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-19:25:51 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-19:25:51 : Data saved to CSV_Output file
+13-Jan-2024-19:25:51 : Connection initiated
+13-Jan-2024-19:25:51 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-19:25:51 : Process Complete
+13-Jan-2024-19:25:51 : Server Connection closed
+13-Jan-2024-19:25:51 : Process Completed.
+13-Jan-2024-19:26:21 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-19:44:01 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-19:44:04 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-19:44:04 : Data saved to CSV_Output file
+13-Jan-2024-19:44:04 : Connection initiated
+13-Jan-2024-19:44:04 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-19:44:04 : Process Complete
+13-Jan-2024-19:44:04 : Server Connection closed
+13-Jan-2024-19:44:04 : Process Completed.
+13-Jan-2024-19:54:46 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-19:54:47 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-19:54:47 : Data saved to CSV_Output file
+13-Jan-2024-19:54:47 : Connection initiated
+13-Jan-2024-19:54:47 : Data saved to CSV_Output file
+13-Jan-2024-19:54:47 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-19:54:47 : Process Complete
+13-Jan-2024-19:54:47 : Server Connection closed
+13-Jan-2024-19:54:47 : Process Completed.
+13-Jan-2024-23:42:21 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-23:42:22 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-23:42:22 : Data saved to CSV_Output file
+13-Jan-2024-23:42:22 : Connection initiated
+13-Jan-2024-23:42:22 : Data saved to CSV_Output file
+13-Jan-2024-23:42:22 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-23:42:22 : Process Complete
+13-Jan-2024-23:42:22 : Server Connection closed
+13-Jan-2024-23:42:22 : Process Completed.
+13-Jan-2024-23:48:36 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-23:48:36 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-23:48:36 : Data saved to CSV_Output file
+13-Jan-2024-23:48:36 : Connection initiated
+13-Jan-2024-23:48:36 : Data saved to CSV_Output file
+13-Jan-2024-23:48:36 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-23:48:36 : Process Complete
+13-Jan-2024-23:48:36 : Server Connection closed
+13-Jan-2024-23:48:36 : Process Completed.
+13-Jan-2024-23:50:53 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-23:50:54 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-23:50:54 : Data saved to CSV_Output file
+13-Jan-2024-23:50:54 : Connection initiated
+13-Jan-2024-23:50:54 : Data saved to CSV_Output file
+13-Jan-2024-23:50:54 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-23:50:54 : Process Complete
+13-Jan-2024-23:50:54 : Server Connection closed
+13-Jan-2024-23:50:54 : Process Completed.
+13-Jan-2024-23:53:07 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-23:53:08 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-23:53:08 : Data saved to CSV_Output file
+13-Jan-2024-23:53:08 : Connection initiated
+13-Jan-2024-23:53:08 : Data saved to CSV_Output file
+13-Jan-2024-23:53:08 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-23:53:08 : Process Complete
+13-Jan-2024-23:53:08 : Server Connection closed
+13-Jan-2024-23:53:08 : Process Completed.
+13-Jan-2024-23:58:18 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-23:58:18 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-23:58:18 : Data saved to CSV_Output file
+13-Jan-2024-23:58:18 : Connection initiated
+13-Jan-2024-23:58:18 : Data saved to CSV_Output file
+13-Jan-2024-23:58:18 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-23:58:18 : Process Complete
+13-Jan-2024-23:58:18 : Server Connection closed
+13-Jan-2024-23:58:18 : Process Completed.
+13-Jan-2024-23:58:57 : Preliminaries complete. Initiating ETL process
+13-Jan-2024-23:58:58 : Data extraction complete. Initiating Transformation process
+13-Jan-2024-23:58:58 : Data saved to CSV_Output file
+13-Jan-2024-23:58:58 : Connection initiated
+13-Jan-2024-23:58:58 : Data saved to CSV_Output file
+13-Jan-2024-23:58:58 : Data loaded to Database as a table, Executing queries
+13-Jan-2024-23:58:58 : Process Complete
+13-Jan-2024-23:58:58 : Server Connection closed
+13-Jan-2024-23:58:58 : Process Completed.
+14-Jan-2024-00:00:18 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:00:18 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:00:18 : Data saved to CSV_Output file
+14-Jan-2024-00:00:18 : Connection initiated
+14-Jan-2024-00:00:18 : Data saved to CSV_Output file
+14-Jan-2024-00:00:18 : Data loaded to Database as a table, Executing queries
+14-Jan-2024-00:00:18 : Process Complete
+14-Jan-2024-00:00:18 : Server Connection closed
+14-Jan-2024-00:00:18 : Process Completed.
+14-Jan-2024-00:01:27 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:04:53 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:04:53 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:05:05 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:05:05 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:05:05 : Data saved to CSV_Output file
+14-Jan-2024-00:05:05 : Connection initiated
+14-Jan-2024-00:05:05 : Data saved to CSV_Output file
+14-Jan-2024-00:05:05 : Data loaded to Database as a table, Executing queries
+14-Jan-2024-00:05:05 : Process Complete
+14-Jan-2024-00:05:05 : Server Connection closed
+14-Jan-2024-00:05:05 : Process Completed.
+14-Jan-2024-00:06:36 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:06:39 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:07:59 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:08:00 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:08:00 : Data saved to CSV_Output file
+14-Jan-2024-00:08:00 : Connection initiated
+14-Jan-2024-00:08:00 : Data saved to CSV_Output file
+14-Jan-2024-00:08:00 : Data loaded to Database as a table, Executing queries
+14-Jan-2024-00:08:00 : Process Complete
+14-Jan-2024-00:08:00 : Server Connection closed
+14-Jan-2024-00:08:00 : Process Completed.
+14-Jan-2024-00:12:08 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:12:08 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:12:32 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:12:33 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:13:18 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:13:18 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:14:51 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:14:52 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:16:38 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:16:38 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:16:38 : Data saved to CSV_Output file
+14-Jan-2024-00:16:38 : Connection initiated
+14-Jan-2024-00:16:38 : Data saved to CSV_Output file
+14-Jan-2024-00:16:38 : Data loaded to Database as a table, Executing queries
+14-Jan-2024-00:16:38 : Process Complete
+14-Jan-2024-00:16:38 : Server Connection closed
+14-Jan-2024-00:16:38 : Process Completed.
+14-Jan-2024-00:18:31 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:18:31 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:18:31 : Data saved to CSV_Output file
+14-Jan-2024-00:18:31 : Connection initiated
+14-Jan-2024-00:18:31 : Data saved to CSV_Output file
+14-Jan-2024-00:18:31 : Data loaded to Database as a table, Executing queries
+14-Jan-2024-00:18:31 : Process Complete
+14-Jan-2024-00:18:31 : Server Connection closed
+14-Jan-2024-00:18:31 : Process Completed.
+14-Jan-2024-00:19:02 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:19:02 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:19:02 : Data saved to CSV_Output file
+14-Jan-2024-00:19:02 : Connection initiated
+14-Jan-2024-00:19:02 : Process Complete
+14-Jan-2024-00:19:02 : Server Connection closed
+14-Jan-2024-00:19:02 : Process Completed.
+14-Jan-2024-00:20:01 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:20:02 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:20:02 : Data saved to CSV_Output file
+14-Jan-2024-00:20:02 : Connection initiated
+14-Jan-2024-00:20:02 : Process Complete
+14-Jan-2024-00:20:02 : Server Connection closed
+14-Jan-2024-00:20:02 : Process Completed.
+14-Jan-2024-00:21:35 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:21:41 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:21:41 : Data saved to CSV_Output file
+14-Jan-2024-00:21:41 : Connection initiated
+14-Jan-2024-00:21:41 : Process Complete
+14-Jan-2024-00:21:41 : Server Connection closed
+14-Jan-2024-00:21:41 : Process Completed.
+14-Jan-2024-00:22:48 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:22:50 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:22:50 : Data saved to CSV_Output file
+14-Jan-2024-00:22:50 : Connection initiated
+14-Jan-2024-00:22:50 : Process Complete
+14-Jan-2024-00:22:50 : Server Connection closed
+14-Jan-2024-00:22:50 : Process Completed.
+14-Jan-2024-00:24:04 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:24:05 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:24:05 : Data saved to CSV_Output file
+14-Jan-2024-00:24:05 : Connection initiated
+14-Jan-2024-00:24:05 : Process Complete
+14-Jan-2024-00:24:05 : Server Connection closed
+14-Jan-2024-00:24:05 : Process Completed.
+14-Jan-2024-00:24:20 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:25:17 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:25:18 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:25:18 : Data saved to CSV_Output file
+14-Jan-2024-00:25:18 : Connection initiated
+14-Jan-2024-00:25:18 : Process Complete
+14-Jan-2024-00:25:18 : Server Connection closed
+14-Jan-2024-00:25:18 : Process Completed.
+14-Jan-2024-00:25:41 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:25:43 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:25:43 : Data saved to CSV_Output file
+14-Jan-2024-00:25:43 : Connection initiated
+14-Jan-2024-00:25:43 : Process Complete
+14-Jan-2024-00:25:43 : Server Connection closed
+14-Jan-2024-00:25:43 : Process Completed.
+14-Jan-2024-00:26:28 : Preliminaries complete. Initiating ETL process
+14-Jan-2024-00:26:30 : Data extraction complete. Initiating Transformation process
+14-Jan-2024-00:26:30 : Data saved to CSV_Output file
+14-Jan-2024-00:26:30 : Connection initiated
+14-Jan-2024-00:26:30 : Data saved to CSV_Output file
+14-Jan-2024-00:26:30 : Data loaded to Database as a table, Executing queries
+14-Jan-2024-00:26:30 : Process Complete
+14-Jan-2024-00:26:30 : Server Connection closed
+14-Jan-2024-00:26:30 : Process Completed.
